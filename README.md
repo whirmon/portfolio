@@ -5,7 +5,7 @@ Hi there! I'm Pablo Zuniga, a passionate junior full stack developer with a love
 
 - 📧 Email: whirmon@yahoo.com
 - 🌐 Portfolio: [Portfolio](https://whirmon.github.io/portfolio/)
-- 💼 LinkedIn: [linkedin.com/in/pablozunigah](https://www.linkedin.com/in/pablozunigah)
+- 💼 LinkedIn: [linkedin.com/in/pablozunigah](https://www.linkedin.com/in/engpablozuniga/)
 - 📱 GitHub: [github.com/whirmon](https://github.com/whirmon)
 
 ## Skills
@@ -44,4 +44,4 @@ UJCV, 2026
 - Full Stack Web Development - [Online Course Provider](http://kodigo.org/)
 
 ## Contact
-Feel free to reach out to me via email at whirmon@yahoo.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/pablozunigah) or check out my code on [GitHub](https://github.com/whirmon).
+Feel free to reach out to me via email at whirmon@yahoo.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/engpablozuniga/) or check out my code on [GitHub](https://github.com/whirmon).
